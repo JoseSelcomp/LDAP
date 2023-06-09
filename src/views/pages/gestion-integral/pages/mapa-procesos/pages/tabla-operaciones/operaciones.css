@@ -1,0 +1,205 @@
+* {
+   
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+body {
+    
+    background: url(/fondi.PNG);
+   
+}
+
+img{
+    width: 30px;
+}
+#logo{
+    width: 11%;
+    margin: -28px 0px 0px -1670px;
+}
+.titulo{
+    color:  #d1164c;
+   /* background: rgba(22, 22, 22, 0.253);*/
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    margin: -20px 0px 50px 0px;
+    
+}
+.subtitulo h2{
+    color:  #0f0f0f;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 0px 10px 10px 500px;
+}
+.title h3{
+    color:  #d1164c;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0px 10px 5px 500px;
+}
+table {
+    color: #0a0a0ac0;
+    font-size: 10px;
+    table-layout: fixed;
+    border-collapse: collapse;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 20px 0px 100px 500px;
+    border: 5px solid  rgba(14, 13, 13, 0.2);
+}
+.letra{
+    color: rgba(12, 12, 12, 0.74);
+    font-size: 14px;
+}
+thead {
+    background: rgba(19, 18, 19, 0.4);
+    border: #0f0f0f;
+}
+
+th {
+    padding: 20px 100px ;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+td {
+    padding: 8px;
+    border-bottom: solid 5px rgba(14, 13, 13, 0.2);
+    
+}
+.cuadro-14{
+    padding: 8px 137px;
+    border-bottom: solid 0px rgba(14, 13, 13, 0.2);  
+}
+.cuadro-15{
+    padding: 8px 110px;
+    border-bottom: solid 0px rgba(14, 13, 13, 0.2);  
+}
+.cuadro-16{
+    padding: 8px 92px;
+    border-bottom: solid 0px rgba(14, 13, 13, 0.2);  
+}
+.cuadro-17{
+    padding: 8px 105px;
+    border-bottom: solid 0px rgba(14, 13, 13, 0.2);  
+}
+.cuadro-18{
+    padding: 8px 130px;
+    border-bottom: solid 0px rgba(14, 13, 13, 0.2);  
+}
+.cuadro-19{
+    padding: 8px 140px;
+    border-bottom: solid 0px rgba(14, 13, 13, 0.2);  
+}
+.cuadro-20{
+    padding: 8px 70px;
+    border-bottom: solid 0px rgba(14, 13, 13, 0.2);  
+}
+.cuadro-21{
+    padding: 8px 76px;
+    border-bottom: solid 0px rgba(14, 13, 13, 0.2);  
+}
+.cuadro-22{
+    padding: 8px 87px;
+    border-bottom: solid 0px rgba(14, 13, 13, 0.2);  
+}
+.cuadro-23{
+    padding: 8px 148px;
+    border-bottom: solid 0px rgba(14, 13, 13, 0.2);  
+}
+.cuadro-24{
+    padding: 8px 163px;
+    border-bottom: solid 0px rgba(14, 13, 13, 0.2);  
+}
+.cuadro-25{
+    padding: 8px 172px;
+    border-bottom: solid 0px rgba(14, 13, 13, 0.2);  
+}
+.cuadro-26{
+    padding: 8px 46px;
+    border-bottom: solid 0px rgba(14, 13, 13, 0.2);  
+}
+tbody tr {
+    cursor: pointer;
+}
+
+tbody tr:hover {
+    background: rgba(243, 2, 2, 0.479);
+}
+
+/*************************regresar**************
+button {
+    margin: -10px 10px 0px 1750px;
+    position: relative;
+    padding: 10px 10px;
+    border: none;
+    outline: none;
+    background: #d1164c;
+    color: #fff;
+    cursor: pointer;
+    transition: .4s;
+    overflow: hidden;
+    border-radius: 10px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+button:hover {
+    color: #fff;
+}
+
+button span {
+    position: absolute;
+    background: #fff;
+    transition: .5s;
+}
+
+button span:nth-child(1) {
+    width: 100%;
+    height: 1px;
+    top: 0;
+    left: -100%;
+}
+
+button span:nth-child(2) {
+    width: 100%;
+    height: 1px;
+    bottom: 0;
+    right: -100%;
+}
+
+button span:nth-child(3) {
+    width: 1px;
+    height: 100%;
+    bottom: -100%;
+    left: 0;
+}
+
+button span:nth-child(4) {
+    width: 2px;
+    height: 100%;
+    top: -100%;
+    right: 0;
+}
+
+button:hover span:nth-child(1) {
+    left: 0;
+}
+
+button:hover span:nth-child(2) {
+    right: 0;
+}
+
+button:hover span:nth-child(3) {
+    bottom: 0;
+}
+
+button:hover span:nth-child(4) {
+    top: 0;
+} ********/
